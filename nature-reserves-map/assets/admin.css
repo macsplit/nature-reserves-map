@@ -1,0 +1,16 @@
+/**
+ * Admin styles for Nature Reserves Map
+ */
+
+#admin-map {
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.maplibregl-ctrl-attrib {
+    font-size: 10px;
+}
+
+.maplibregl-marker {
+    cursor: move !important;
+}
