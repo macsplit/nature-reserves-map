@@ -2,6 +2,8 @@
 
 A WordPress plugin for managing and displaying nature reserves on an interactive map.
 
+![Screenshot](https://raw.githubusercontent.com/macsplit/nature-reserves-map/refs/heads/main/screenshot.png)
+
 ## Features
 
 - **Admin Management**: Add, edit, and delete nature reserves from WordPress admin
